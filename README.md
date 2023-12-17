@@ -26,6 +26,6 @@ The areas i am interested in are:
 
 deep learning is not mentioned here since learning need not be deep (although it seems to be what all the craze is about as of 2023.). I categorize it into a form of machine learning. Perhaps, future shall have an interesting thing in store for us (which i wont say much about until some of my experiments work). 
 
-All the best, and i hope you get a chance to do some great work in the future. 
+All the best, and i hope you get a chance to do some great work in the future. I even hope that for myself lol. 
 
 After all: "Man Maketh Machine".
