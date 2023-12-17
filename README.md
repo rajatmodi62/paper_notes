@@ -1,4 +1,4 @@
-# paper_notes
+# Paper Notes
 
 
 what makes a great paper? some argue, that only the famous researchers write those papers. we see this trend periodically in research: a class of researchers get one great idea, cash out, and then stop publishing (which is an absolutely correct personal choice). Another class of concentrated 1-3 people, seem to get all the good ideas in the field (just a general observation, causality need not imply correlation). So, this is just a small attempt to see what the good folks have been doing. 
