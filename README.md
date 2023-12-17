@@ -24,4 +24,8 @@ The areas i am interested in are:
 - biological intelligence 
 - cognitive sciences 
 
-deep learning is not mentioned here since learning need not be deep (although it seems to be what all the craze is about now.) Perhaps, future shall have an interesting thing in store for us. All the best, 
+deep learning is not mentioned here since learning need not be deep (although it seems to be what all the craze is about as of 2023.). I categorize it into a form of machine learning. Perhaps, future shall have an interesting thing in store for us (which i wont say much about until some of my experiments work). 
+
+All the best, and i hope you get a chance to do some great work in the future. 
+
+After all: "Man Maketh Machine".
