@@ -28,4 +28,4 @@ deep learning is not mentioned here since learning need not be deep (although it
 
 All the best, and i hope you get a chance to do some great work in the future. I even hope that for myself lol. 
 
-After all: "Man Maketh Machine".
+After all: "Man Maketh Machine". There might come a time soon when machines make themselves or a man becomes indistinguishable from a machine. 
