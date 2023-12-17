@@ -19,6 +19,7 @@ If you still choose to accept the things that come with doing some good work (th
 The areas i am interested in are:
 - computer vision 
 - machine learning 
+- pattern recognition
 - philosophy of mind 
 - cybernetics 
 - biological intelligence 
